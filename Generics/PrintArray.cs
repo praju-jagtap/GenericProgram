@@ -13,7 +13,6 @@ namespace Generics
             int[] intArr = { 1, 2, 3, 4, 5, 6 };
             double[] doubleArr = { 0.1, 0.2, 0.3, 0.4, 0.5 };
             char[] charArr = { 'a', 'b', 'c', 'd', 'e', 'f' };
-
             PrintIntArr(intArr);              
             PrintDoubleArr(doubleArr);
             PrintCharArr(charArr);
